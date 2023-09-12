@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joelgma
-- 👀 I’m interested in IOT, Arduino
+- 👋 Hi, I’m @joelgma (JOEL G MATHEW)
+- 👀 I’m interested in IOT, Arduino projects, robotics projects,..
 - 🌱 I’m currently learning more in IOT
 - 💞️ I’m looking to collaborate on projects
 - 📫 contact details: whatsapp:8086264060
